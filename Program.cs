@@ -32,12 +32,27 @@ namespace MovieLibrary_practice
                 try
                 {
                     StreamReader sr = new StreamReader(file);
-                    // first line contains column headers
+                    // skip first line -- contains column headers
                     sr.ReadLine();
                     while (!sr.EndOfStream)
                     {
                         string line = sr.ReadLine();
-                        Console.WriteLine(line);
+                        // first look for quote(") in string
+                        // this indicates a comma(,) in movie title
+                        int idx = line.IndexOf('"');
+                        if (idx == -1)
+                        {
+                            // no quote = no comma in movie title
+                            // movie details are separated with comma(,)
+                            string[] movieDetails = line.Split(',');
+                            // 1st array element contains movie id
+                            MovieIds.Add(UInt64.Parse(movieDetails[0]));
+                            // 2nd array element contains movie title
+                            MovieTitles.Add(movieDetails[1]);
+                            // 3rd array element contains movie genre(s)
+                            // replace "|" with ", "
+                            MovieGenres.Add(movieDetails[2].Replace("|", ", "));
+                        }
                     }
                     sr.Close();
                 }

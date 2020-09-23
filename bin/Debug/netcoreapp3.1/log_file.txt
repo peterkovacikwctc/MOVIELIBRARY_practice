@@ -9,3 +9,6 @@
 2020-09-23 18:41:10.6924|INFO|MovieLibrary_practice.Program|User choice: "1"
 2020-09-23 18:41:12.8610|INFO|MovieLibrary_practice.Program|User choice: ""
 2020-09-23 18:41:12.8713|INFO|MovieLibrary_practice.Program|Program ended
+2020-09-23 18:43:47.2412|INFO|MovieLibrary_practice.Program|Program started
+2020-09-23 18:44:24.7683|INFO|MovieLibrary_practice.Program|User choice: ""
+2020-09-23 18:44:24.7906|INFO|MovieLibrary_practice.Program|Program ended
