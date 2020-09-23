@@ -1,0 +1,17 @@
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\MovieLibrary_practice.exe
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\MovieLibrary_practice.deps.json
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\MovieLibrary_practice.runtimeconfig.json
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\MovieLibrary_practice.runtimeconfig.dev.json
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\MovieLibrary_practice.dll
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\MovieLibrary_practice.pdb
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.csprojAssemblyReference.cache
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.AssemblyInfoInputs.cache
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.AssemblyInfo.cs
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.csproj.CoreCompileInputs.cache
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.csproj.CopyComplete
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.dll
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.pdb
+C:\Users\Peter Kovacik\Documents\MovieLibrary_practice\obj\Debug\netcoreapp3.1\MovieLibrary_practice.genruntimeconfig.cache
