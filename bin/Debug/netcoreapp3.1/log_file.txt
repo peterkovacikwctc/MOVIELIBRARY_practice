@@ -4,3 +4,8 @@
 2020-09-23 18:37:20.9435|INFO|MovieLibrary_practice.Program|Program started
 2020-09-23 18:37:20.9802|ERROR|MovieLibrary_practice.Program|File does not exist: "movies.csv"
 2020-09-23 18:37:20.9964|INFO|MovieLibrary_practice.Program|Program ended
+2020-09-23 18:41:06.4737|INFO|MovieLibrary_practice.Program|Program started
+2020-09-23 18:41:09.0607|INFO|MovieLibrary_practice.Program|User choice: "2"
+2020-09-23 18:41:10.6924|INFO|MovieLibrary_practice.Program|User choice: "1"
+2020-09-23 18:41:12.8610|INFO|MovieLibrary_practice.Program|User choice: ""
+2020-09-23 18:41:12.8713|INFO|MovieLibrary_practice.Program|Program ended

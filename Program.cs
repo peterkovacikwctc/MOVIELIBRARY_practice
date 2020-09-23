@@ -1,6 +1,7 @@
 ﻿using System;
 using NLog.Web;
 using System.IO;
+using System.Collections.Generic; // namespace needed to use lists
 
 namespace MovieLibrary_practice
 {
@@ -22,6 +23,28 @@ namespace MovieLibrary_practice
             }
             else
             {
+                // create parallel lists of movie details
+                // lists are used since we do not know number of lines of data
+                List<UInt64> MovieIds = new List<UInt64>();
+                List<string> MovieTitles = new List<string>();
+                List<string> MovieGenres = new List<string>();
+                // to populate the lists with data, read from the data file
+                try
+                {
+                    StreamReader sr = new StreamReader(file);
+                    // first line contains column headers
+                    sr.ReadLine();
+                    while (!sr.EndOfStream)
+                    {
+                        string line = sr.ReadLine();
+                        Console.WriteLine(line);
+                    }
+                    sr.Close();
+                }
+                catch (Exception ex)
+                {
+                    logger.Error(ex.Message);
+                }
                 string choice;
                 do
                 {
