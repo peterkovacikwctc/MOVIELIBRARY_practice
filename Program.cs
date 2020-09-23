@@ -22,7 +22,7 @@ namespace MovieLibrary_practice
             }
             else
             {
-                 string choice;
+                string choice;
                 do
                 {
                     // display choices to user
