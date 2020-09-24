@@ -36,3 +36,12 @@
 2020-09-23 19:11:53.7547|INFO|MovieLibrary_practice.Program|Movies in file 9125
 2020-09-23 19:12:18.1306|INFO|MovieLibrary_practice.Program|User choice: ""
 2020-09-23 19:12:18.1472|INFO|MovieLibrary_practice.Program|Program ended
+2020-09-23 19:14:48.5059|INFO|MovieListing.Program|Program started
+2020-09-23 19:14:48.5767|INFO|MovieListing.Program|Movies in file 9125
+2020-09-23 19:14:50.4315|INFO|MovieListing.Program|User choice: "1"
+2020-09-23 19:15:03.7377|INFO|MovieListing.Program|Movie id 164980 added
+2020-09-23 19:15:03.7498|INFO|MovieListing.Program|Movies in file 9126
+2020-09-23 19:15:16.6238|INFO|MovieListing.Program|User choice: "2"
+2020-09-23 19:15:27.2793|INFO|MovieListing.Program|Movies in file 9126
+2020-09-23 19:16:07.3510|INFO|MovieListing.Program|User choice: ""
+2020-09-23 19:16:07.3602|INFO|MovieListing.Program|Program ended
